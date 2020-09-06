@@ -4,21 +4,23 @@
 If things are unclear, please e-mail me at leon.eckert@nyu.edu.
 
 - Setup
-  - Github
+  - [Github](#github)
     - Make a GitHub account
     - Create your own repository for this semester ("fork" one I prepared for you)
-    - Bring a website live on the web (using "Github Pages")
-  - Software
+    - [Bring a website live on the web](#3-turn-your-repository-into-a-github-page) (using "Github Pages")
+  - [Software](#software)
     - Google Chrome
     - Atom Text Editor
     - Atom Packages
-  - Working Environment
+  - [Working Environment](#working-environment)
     - Clone your remote repository using Atom
     - Working on Projects
       - Open you files in Atom
       - Use atom-live-server
-      - Push changes to your remote GitHub repository
-- Coding Exercise
+      - [Push changes to your remote GitHub repository](#the-push)
+- [Coding Exercise](#coding-exercise)
+  - [exercise](#chrome-developer-tools)
+  - [submit your work](#after-you-are-done)
 
 
 ### Setup
