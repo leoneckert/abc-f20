@@ -57,6 +57,9 @@ html, body {
   margin-bottom: 10px;
   font-family: bold;
 }
+.small-projects a:visited{
+  color:blue;
+}
 .small-projects a:hover{
   color: red;
   background-color: blue;
@@ -73,4 +76,33 @@ html, body {
 }
 .margin-left-110{
   margin-left: 110px;
+}
+
+
+.bannerdiv{
+  position:absolute;
+  width:100%;
+  top:0;
+  left:0;
+  z-index:5;
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+.bannerdiv p{
+  display: inline-block;
+  margin: 4px 0;
+  margin-right: 30px;
+
+}
+.bannerdiv p:last-child{
+  margin-right: 0px;
+}
+
+.bannerdiv p a{
+  color: white;
+}
+.bannerdiv p a:visited{
+  color: white;
 }
