@@ -37,4 +37,6 @@ Your room will change throughout the semester, you will learn new tricks and wan
 
 ##### An example
 
-Here is my room, it's very boring. Visitors will turn around on the doorstep and head for your room instead :) Make them feel welcome, and enjoy their stay. 
+Here is [my room](https://leoneckert.github.io/abc-f20/hyperlink-gallery/leon-room/)*, it's very boring. Visitors will turn around on the doorstep and head for your room instead :) Make them feel welcome, and enjoy their stay.
+
+*note that the "3D" effect in my room is achieved by just a single image in the background. It's not real. Feel free to experiment with similar tricks and illusions :)
