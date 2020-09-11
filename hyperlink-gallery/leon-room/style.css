@@ -80,29 +80,39 @@ html, body {
 
 
 .bannerdiv{
-  position:absolute;
+  position:fixed;
   width:100%;
   top:0;
   left:0;
   z-index:5;
-  text-align: center;
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
   font-family: sans-serif;
+  border: 5px solid black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-weight: bold;
 }
+
 .bannerdiv p{
-  display: inline-block;
+  /* display: inline-block; */
   margin: 4px 0;
-  margin-right: 30px;
+  margin-right: 10px;
+  font-weight: normal;
 
 }
 .bannerdiv p:last-child{
-  margin-right: 0px;
+  margin-left: 10px;
 }
 
 .bannerdiv p a{
-  color: white;
+  color: black;
+  font-size: 0.9em;
 }
-.bannerdiv p a:visited{
+
+/* .bannerdiv p a:visited{
   color: white;
-}
+} */

@@ -28,15 +28,35 @@ It's your room! Your main task is to personalize it and make it your own; make i
 
 ##### Must-have content
 You will work on 10 projects this semester. They don't exist yet, but we already know they will; in your room, create placeholders with empty links. As you produce the work this semester, you can fix those links one by one. Your need placeholders for:
-- three larger projects
-- seven smaller projects
-Aside this, you can include anything you want. Your name, of course, a bio? a poem? something visual? Think of it as your room in an online gallery.
+- three larger projects (e.g. "Project A", "Project B", "Project C")
+- seven smaller projects (e.g. "Mini Project #1", "Mini Project #2", ...)
+- Once you are done coding (or before you start, your choice), please include the following code-snippet at the very top of your page:
+  ```
+  <!-- Hyperlink Gallery Banner -->
+  <div style="position:fixed;width:100%;top:0;left:0;z-index:5;background-color:white;font-family:sans-serif;border:5px solid black;display:flex;justify-content:space-between;align-items:center;padding:0 20px;box-sizing:border-box;font-weight:bold;"><p style="margin:4px 0;margin-right:10px;font-weight:normal"><a style="color:black;font-size:0.9em;" href="https://abc.leoneckert.com/hyperlink-gallery"><< Lobby</a></p><span>H</span><span>y</span><span>p</span><span>e</span><span>r</span><span>l</span><span>i</span><span>n</span><span>k</span><span> </span><span>G</span><span>a</span><span>l</span><span>l</span><span>e</span><span>r</span><span>y</span><p style="margin:4px 0;margin-left:10px;font-weight:normal"><a style="color:black;font-size:0.9em;" href="https://abc.leoneckert.com/random-artist">random >></a></p></div>
+  ```
+  I recommend to place it at the very top of you `<body>` tag, right here:
+  ```
+  <html>
+    <head>
+      [...]
+    </head>
+    <body>
+      ... <-----ADD THE SNIPPET RIGHT HERE!
+
+      [your html code is here]
+    </body>
+  </html>
+  ```
+  The snippet will add a slim, unobtrusive banner to your page from where a visitor can choose to go back to the Hyperlink Gallery starting page ("Lobby") or get to a random other room (one by your classmates). 👍 Let me know if this does not work for some reason :)
+
+Aside this, you can include anyth̨ing you want. Your name, of course, a bio? a poem? something visual? Think of it as your room in an online gallery.
 
 ##### Words of advice
 Your room will change throughout the semester, you will learn new tricks and want to tweak, add, remove parts of your design of the room. That is fine, even expected. It is necessary (and relevant to grading) however that you think about your choices at this point already. The focus should be primarily on the visual design, then on the technical execution. The room itself must not be an artwork. It is a platform on which to present your art.
 
 ##### An example
 
-Here is [my room](https://leoneckert.github.io/abc-f20/hyperlink-gallery/leon-room/)*, it's very boring. Visitors will turn around on the doorstep and head for your room instead :) Make them feel welcome, and enjoy their stay.
+Here is [my room](https://leoneckert.github.io/abc-f20/hyperlink-gallery/leon-room/)*, it's very boring. Visitors will turn around on the doorstep and head for your room instead :) Make them feel welcome, and enjoy their stay. My room uses HTML and CSS only, I encourage you to include some JavaScript in yours for a more interesting experience.
 
 *note that the "3D" effect in my room is achieved by just a single image in the background. It's not real. Feel free to experiment with similar tricks and illusions :)
