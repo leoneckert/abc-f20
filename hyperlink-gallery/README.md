@@ -2,6 +2,8 @@
 
 Work on this after you have completed the Coding Foundation Exercise.
 
+![gallery](hg.gif)
+
 ABC maintains its own gallery, the Hyperlink Gallery; this is its [front door](https://abc.leoneckert.com/hyperlink-gallery). This week, you will move into one of the gallery's rooms and prepare it to share your work there throughout the semester.
 
 #### How to move in?
@@ -21,7 +23,7 @@ abc-student-repo
 └── ...
 ```
 
-Once you push these changes to your remote GitHub repository, you can find the new page online, copy the link, and  use it to fill out this [spreadsheet](TBD).
+Once you push these changes to your remote GitHub repository, you can find the new page online, copy the link, and  use it to fill out this [spreadsheet](TBD), in the name column, put any name you want to appear on the [Hyperlink Gallery](https://abc.leoneckert.com/hyperlink-gallery) page.
 
 #### What to put into my room?
 It's your room! Your main task is to personalize it and make it your own; make it unique and represent you as a creative being.
