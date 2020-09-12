@@ -23,7 +23,7 @@ abc-student-repo
 └── ...
 ```
 
-Once you push these changes to your remote GitHub repository, you can find the new page online, copy the link, and  use it to fill out this [spreadsheet](TBD), in the name column, put any name you want to appear on the [Hyperlink Gallery](https://abc.leoneckert.com/hyperlink-gallery) page.
+Once you push these changes to your remote GitHub repository, you can find the new page online, copy the link, and  use it to fill out this [spreadsheet](https://docs.google.com/spreadsheets/d/1fWnl4A_tlr_EidBlUiC_fIDGeD6fTGKHLlDgQiQoYjs/edit?usp=sharing), in the name column, put any name you want to appear on the [Hyperlink Gallery](https://abc.leoneckert.com/hyperlink-gallery) page.
 
 #### What to put into my room?
 It's your room! Your main task is to personalize it and make it your own; make it unique and represent you as a creative being.
