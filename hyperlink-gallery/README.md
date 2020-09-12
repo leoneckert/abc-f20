@@ -37,7 +37,7 @@ You will work on 10 projects this semester. They don't exist yet, but we already
   <!-- Hyperlink Gallery Banner -->
   <div style="position:fixed;width:100%;top:0;left:0;z-index:5;background-color:white;font-family:sans-serif;border:5px solid black;display:flex;justify-content:space-between;align-items:center;padding:0 20px;box-sizing:border-box;font-weight:bold;"><p style="margin:4px 0;margin-right:10px;font-weight:normal"><a style="color:black;font-size:0.9em;" href="https://abc.leoneckert.com/hyperlink-gallery"><< Lobby</a></p><span>H</span><span>y</span><span>p</span><span>e</span><span>r</span><span>l</span><span>i</span><span>n</span><span>k</span><span> </span><span>G</span><span>a</span><span>l</span><span>l</span><span>e</span><span>r</span><span>y</span><p style="margin:4px 0;margin-left:10px;font-weight:normal"><a style="color:black;font-size:0.9em;" href="https://abc.leoneckert.com/random-artist">random >></a></p></div>
   ```
-  I recommend to place it at the very top of you `<body>` tag, right here:
+  I recommend to place it at the very top of your `<body>` tag, right here:
   ```
   <html>
     <head>
@@ -52,7 +52,7 @@ You will work on 10 projects this semester. They don't exist yet, but we already
   ```
   The snippet will add a slim, unobtrusive banner to your page from where a visitor can choose to go back to the Hyperlink Gallery starting page ("Lobby") or get to a random other room (one by your classmates). 👍 Let me know if this does not work for some reason :)
 
-Aside this, you can include anyth̨ing you want. Your name, of course, a bio? a poem? something visual? Think of it as your room in an online gallery.
+Aside this, you can include anything you want. Your name, of course, a bio? a statement? Something visual? Something audible? Keep in mind, in this room, you will share the work you produce in this course, not work you produce(d) outside. It is not a general portfolio, but one room inside the gallery. Design and curate this space that will present your future work in its best light. 
 
 ##### Words of advice
 Your room will change throughout the semester, you will learn new tricks and want to tweak, add, remove parts of your design of the room. That is fine, even expected. It is necessary (and relevant to grading) however that you think about your choices at this point already. The focus should be primarily on the visual design, then on the technical execution. The room itself must not be an artwork. It is a platform on which to present your art.
