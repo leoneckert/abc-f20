@@ -1,3 +1,5 @@
-# abc-f20
+# ![ABC Browser Circus](other/assets/abc.png)
 
-part of [ABC](https://abc.leoneckert.com)
+
+#  
+Course taught at NYU Shanghai, Fall 2020. More info at [https://abc.leoneckert.com](https://abc.leoneckert.com)
