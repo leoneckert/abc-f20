@@ -141,6 +141,10 @@ Next, in your Atom, you should see "git" and "GitHub" in the bottom right corner
 
 ![clone](assets/15-clone-button.png)
 
+🚨If the clone button does not show up in your version of Atom, take these two steps instead:
+
+![clone1](assets/clone-version2.png)
+
 Here is where we can tell Atom (and something called 'git') where exactly to find the repo that already exists in our GitHub account. Now you can paste the HTTPS link you copied a few steps ago as well as designate where the repo should be downloaded to -- I suggest the Desktop (you can then move it elsewhere afterwards).
 
 ![clone2](assets/14-clone.png)
