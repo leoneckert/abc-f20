@@ -4,7 +4,7 @@ Work on this after you have completed the Coding Foundation Exercise.
 
 ![gallery](hg.gif)
 
-ABC maintains its own gallery, the Hyperlink Gallery; this is its [front door](https://abc.leoneckert.com/hyperlink-gallery). This week, you will move into one of the gallery's rooms and prepare it to share your work there throughout the semester.
+ABC maintains its own gallery, the Hyperlink Gallery; this is its [lobby](https://abc.leoneckert.com/hyperlink-gallery). This week, you will move into one of the gallery's rooms and prepare it to share your work there throughout the semester.
 
 #### How to move in?
 First, you need to create a room on the web. You should do this within your repository. Your repository is already online using GitHub Pages, so all it takes to create a room (a webpage, I mean), is to create a new folder and populate it with a `index.html` file. I suggest this structure:
