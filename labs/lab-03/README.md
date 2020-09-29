@@ -12,4 +12,4 @@ The rendered websites are here:
 ![animation-2](assets/animation-2.gif)
 ![audio-0](assets/audio-0.png)
 ![audio-1](assets/audio-1.png)
-![audio-2](assets/audio-3.gif)
+![audio-2](assets/audio-2.gif)
