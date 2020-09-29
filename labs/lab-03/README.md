@@ -1,6 +1,6 @@
 See above the code we wrote in class. And an additional "project" we didn't get to.
 The rendered websites are here:
-- [animation-0](https://leoneckert.github.io/abc-f20/labs/lab-03/in-class-code/animation-0/)
+- [animation-0](https://leoneckert.github.io/abc-f20/labs/lab-03/in-class-code/animation-0/index.html)
 - [animation-1](https://leoneckert.github.io/abc-f20/labs/lab-03/in-class-code/animation-1/)
 - [animation-2](https://leoneckert.github.io/abc-f20/labs/lab-03/in-class-code/animation-2/)
 - [audio-0](https://leoneckert.github.io/abc-f20/labs/lab-03/in-class-code/audio-0/)
