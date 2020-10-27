@@ -1,0 +1,17 @@
+{
+    "name": "COUNTER (advanced)",
+    "version": "1.0",
+    "description": "Replace words",
+    "manifest_version": 2,
+    "background": {
+      "scripts": ["background.js"]
+    },
+    "permissions": [
+      "storage"
+    ],
+    "browser_action": {
+      "default_icon": "tent.png",
+      "default_popup": "popup/popup.html"
+    }
+
+  }
