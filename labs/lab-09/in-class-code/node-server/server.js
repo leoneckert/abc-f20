@@ -12,13 +12,13 @@ let leoncount = 0;
 
 // "/" route
 app.get('/leon', (req, res) => {
-  leoncount = leoncount + 1;
+  leoncount = leoncount + 2;
   console.log(leoncount, " people asked for leon")
-  
+
   console.log(__dirname)
   console.log("someone requested /leon");
   // res.sendFile('leon/index.html')
-  res.sendFile(__dirname + '/leon/index.html');
+  res.sendFile(__dirname + '/leoneckert/index.html');
 
 })
 
