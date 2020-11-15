@@ -25,9 +25,9 @@ app.get('/house', (req, res) => {
 app.get("/secret", (req, res) => {
   console.log(req.query)
   if(req.query.secret == "teaspoon"){
-    res.sendFile(__dirname + "/public/correct/index.html")
+    res.redirect("/correct/index.html")
   }else{
-    res.sendFile(__dirname + "/public/wrong/index.html")
+    res.redirect("/wrong/index.html")
   }
 })
 
